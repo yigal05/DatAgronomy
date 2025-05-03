@@ -1,0 +1,41 @@
+DATAGRONOMY - Sistema de Gestión Porcina
+========================================
+
+1. Información Técnica
+----------------------
+- Lenguaje: Python 3.9+
+- Interfaz: Tkinter (incluido en Python)
+- Base de Datos: MySQL
+- Driver MySQL: PyMySQL 1.0.2
+  (Instalación: pip install pymysql)
+- Versión del sistema: 1.0
+
+2. Credenciales de Acceso
+-------------------------
+- Probar usuario administrador:
+  Usuario: user001
+  Contraseña: contrasena1
+
+- Probar usuario granjero:
+  Usuario: user002
+  Contraseña: contrasena2
+
+
+Declaración de Derechos de Uso
+---------------------------------
+Este trabajo se comparte bajo licencia MIT:
+
+Copyright 2023 [Santiago Ramirez y Yigal Rojas]
+
+Se concede permiso, libre de cargos, a cualquier persona que obtenga una copia 
+de este software y los archivos de documentación asociados, para utilizar el 
+software sin restricción, incluyendo sin limitación los derechos a usar, copiar, 
+modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del 
+software, y a permitir a las personas a las que se les proporcione el software 
+a hacer lo mismo.
+
+Los estudiantes pueden:
+- Usar este proyecto como referencia
+- Modificar y mejorar el código
+- Implementar nuevas funcionalidades
+- Utilizarlo como base para sus propios proyectos
